@@ -1,0 +1,8 @@
+.env
+.venv
+.band_booker_venv
+logs/*.log
+__pycache__/
+nohup.out
+static/
+db.sqlite3
